@@ -141,7 +141,7 @@ button:active {
    Media Queries
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 70em) {
 
 #faceholder{
     border-radius: 10px;
